@@ -8,6 +8,10 @@
     "type": "git",
     "url": "https://github.com/wiisportsresort/postcss-color-contrast.git"
   },
+  "homepage": "https://github.com/calico32/postcss-color-contrast#readme",
+  "bugs": {
+    "url": "https://github.com/calico32/postcss-color-contrast/issues"
+  },
   "keywords": [
     "postcss",
     "color",
